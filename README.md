@@ -8,7 +8,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Everybody<sup><sup>well, haters gonna hate</sup></sup> loves GitHub and everybody loves stats. So, why not making the GitHub contributions calendar available for being embeded in your Angular web pages? Now you can :tada:
 
-<--demo gif here-->
+![angular-github-calendar](https://user-images.githubusercontent.com/82958857/200940229-2d76983c-26c6-4aa9-a26b-60a5aa23368d.gif)
 
 ## :running: How to run?
 If you don't have angular configured in your system, install it using:
