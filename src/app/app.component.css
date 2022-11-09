@@ -1,0 +1,18 @@
+@import url(https://unpkg.com/bag.css@1.0.12/dist/bag.fixed.css);
+
+.code-snippet-2{
+  padding-right: 50%;
+}
+
+.code-snippet-3{
+  padding-right: 50%;
+}
+
+h3{
+  font-weight: 100;
+  text-align: center;
+}
+
+mark{
+  background-color: #ddd;
+}
