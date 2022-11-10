@@ -67,7 +67,7 @@ Add**&lt;app-github-calendar&gt;** component tag in any component you want!
 
 #### Step 5:
 
-To display the stats of **any user** you want, add their username in the `/assets/js/main.js` file
+To display the stats of **any user** you want, add their username in the `/src/assets/github-calendar/js/main.js` file
 
 ![main js](https://user-images.githubusercontent.com/82958857/201031623-da6c0dd9-dcca-4b80-bfae-3102d797acbb.png)
 
