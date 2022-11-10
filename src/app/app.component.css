@@ -16,3 +16,15 @@ h3{
 mark{
   background-color: #ddd;
 }
+
+.angular-logo{
+  position: fixed;
+  right: 1%;
+  width: 75px;
+}
+
+.github-logo{
+  position: fixed;
+  left: 1%;
+  width: 75px;
+}
