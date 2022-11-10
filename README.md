@@ -41,7 +41,7 @@ The application will automatically reload if you change any of the source files.
 
 
 
-## :fireworks: Add to Your Angular Project
+## :white_check_mark: Add to Your Angular Project
 
 #### Step 1:
 
