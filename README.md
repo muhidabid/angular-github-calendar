@@ -11,7 +11,7 @@ Everybody<sup><sup>well, haters gonna hate</sup></sup> loves GitHub and everybod
 
 ![angular-github-calendar](https://user-images.githubusercontent.com/82958857/200940229-2d76983c-26c6-4aa9-a26b-60a5aa23368d.gif)
 
-## :running: How to run?
+## :running: How to run this project?
 If you don't have angular configured in your system, install it using:
 
 ```sh
@@ -38,12 +38,46 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/` in your br
 
 The application will automatically reload if you change any of the source files.
 
+
+
+
+## :fireworks: Add to Your Angular Project
+
+#### Step 1:
+
+Copy paste the <b>github-calendar component from </b> `/src/github-calendar` folder to the `/src/app` directory of your project
+
+
+#### Step 2:
+
+Copy paste the **github-calendar asset from ** `/src/assets/github-calendar` folder to the default `/src/assets` directory of your project
+
+
+#### Step 3:
+Add **GithubCalendarComponent** to declarations into `app.module.ts`
+
+![app module ts](https://user-images.githubusercontent.com/82958857/201031174-c1ef012b-4848-402c-933a-356c3742d72a.png)
+
+
+#### Step 4:
+Add**&lt;app-github-calendar&gt;** component tag in any component you want!
+
+![any-component html-highlighted](https://user-images.githubusercontent.com/82958857/201031372-5395e583-35b8-43b2-b348-5f4ae5b31e3c.png)
+
+
+#### Step 5:
+
+To display the stats of **any user** you want, add their username in the `/assets/js/main.js` file
+
+![main js](https://user-images.githubusercontent.com/82958857/201031623-da6c0dd9-dcca-4b80-bfae-3102d797acbb.png)
+
+
 ## :question: Get Help
 For questions and bug reports open issues. :bug:
 
 
 ## :yum: How to contribute
-Have an idea? Found a bug? See [how to contribute][contributing].
+Have an idea? Found a bug? See [how to contribute](/CONTRIBUTING.md).
 
 
 ## :dizzy: Where is this component used?
@@ -55,7 +89,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## :scroll: License
 
-[MIT][license]
-[license]: /LICENSE
-[contributing]: /CONTRIBUTING.md
-[docs]: /DOCUMENTATION.md
+[MIT](/LICENSE)
